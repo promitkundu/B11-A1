@@ -192,17 +192,17 @@
     padding: 11px 20px 11px 20px;
     border: none;
 }
-.anotherbutton:hover {background-color: #blue}
+.anotherbutton:hover {background-color: rgb(84, 144, 245)}
 
 .anotherbutton:active {
-  background-color: #blue;
+  background-color: rgb(84, 144, 245);
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
-.anotherbutton1:hover {background-color: #green}
+.anotherbutton1:hover {background-color: rgb(9, 161, 92)}
 
 .anotherbutton1:active {
-  background-color: #green;
+  background-color: rgb(9, 161, 92);
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
