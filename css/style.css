@@ -192,7 +192,27 @@
     padding: 11px 20px 11px 20px;
     border: none;
 }
+.anotherbutton:hover {background-color: #blue}
 
+.anotherbutton:active {
+  background-color: #blue;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.anotherbutton1:hover {background-color: #green}
+
+.anotherbutton1:active {
+  background-color: #green;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.anotherbutton2:hover {background-color: rgb(255, 194, 57)}
+
+.anotherbutton2:active {
+  background-color: rgb(255, 194, 57);
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
 .container {
     display: flex;
     justify-content: space-between;
@@ -240,8 +260,15 @@
     letter-spacing: 0%;
     text-align: left;
 }
-.chobi {
+.button:hover {background-color: #3e8e41}
 
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.chobi {
     border-radius: 24px;
 }
 .card1 {
@@ -360,6 +387,13 @@
     align-items: center;
     margin-top: -50px;
 }
+.donatebox:hover {background-color: #3e8e41}
+
+.donatebox:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
 .yunus {
     background-color: aliceblue;
     box-sizing: border-box;
@@ -407,6 +441,13 @@
     line-height: 16px;
     letter-spacing: 0%;
     text-align: left;
+}
+.b:hover {background-color: #3e8e41}
+
+.b:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
 }
 .lekha {
     margin-bottom: -50px;
