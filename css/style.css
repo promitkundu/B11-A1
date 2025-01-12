@@ -299,6 +299,15 @@
     margin-top: -20px;
     margin-bottom: -40px;
 }
+.ek:hover {
+    background-color: rgb(198, 228, 214);
+}
+.tin:hover {
+    background-color: rgb(198, 228, 214);
+}
+.char:hover {
+    background-color: rgb(198, 228, 214);
+}
 .input {
     text-align: center;
 
